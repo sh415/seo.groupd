@@ -1,0 +1,14 @@
+
+01. cd C:\Python311 : python 설치경로로 이동
+
+pip install fastapi
+
+pip install "uvicorn[standard]"
+
+pip install pyperclip
+
+pip install requests
+
+
+
+
